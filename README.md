@@ -1,4 +1,4 @@
-# Multiple Api Supported React App
+# Weather App With Multiple API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
